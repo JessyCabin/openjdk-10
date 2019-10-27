@@ -1,0 +1,5 @@
+repo: fd16c54261b32be1aaedd863b7e856801b7f8543
+node: be620a59137967c55008c9683a2d9fa2b1c4f3a2
+branch: default
+latesttag: jdk-10+30
+latesttagdistance: 12
